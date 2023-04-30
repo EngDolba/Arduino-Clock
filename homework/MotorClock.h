@@ -20,7 +20,7 @@ button1P, uint8_t button2P,uint8_t rgbRP, uint8_t rgbGP, uint8_t rgbBP);
     void setCurrentTime();
     double setStopwatch();
     double setStopwatchByHand();
-    void MotorClock:setColor(int redValue, int greenValue, int blueValue);
+    void setColor(int redValue, int greenValue, int blueValue);
   
   private:
    int hours;
