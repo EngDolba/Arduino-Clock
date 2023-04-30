@@ -1,7 +1,7 @@
 ## General Information
 
-The Purpose of a code is to implement clock with servo motor and stepper motor and give it various features using
-various components
+The purpose of a code is to implement clock with servo motor and stepper motor and give it various features using
+various components, such as: stopwatch,alarm,timer and so on.
 
 ## Program Information
 
